@@ -1,15 +1,24 @@
 ![OrkPack-2](https://raw.githubusercontent.com/0x06060606/OrkPack-2/master/logo.png) <br/>
 
+# This Project is a Work in Progress!
+
 # Disclaimer
 neither John Bell, OrkSec, or the members take responsibility for what you do with this tool. We do not take responsibility for what you do with this tool! We do not support any illegal actions performed with this tool.<br/>
 
 # Modules
-We've got bunch of modules you can use. Some are faster (requests, mechanize) and some are slower but work.<br/>
-| Website      |  Python Module |
+We've got a bunch of modules you can use. Some are faster (requests, mechanize) and some are slower but work.<br/>
+|  Website     |  Python Module |
 |--------------|----------------|
-| Nest.com     | requests       |
+| Nest.com     | Requests       |
 | Call of Duty | Selenium       |
-| freebitco.in | WIP            |
+| freebitco.in | Requests       |
+| PayPal.com   | Selenium       |
+
+# Tools
+We've got a bunch of tools you can use. Some are faster (requests, mechanize) and some are slower but work.<br/>
+|  Name        |  Python Module |
+|--------------|----------------|
+| YT Like bot  | Selenium       |
 
 # Installation
  * Make sure python3 is installed:<br/>
