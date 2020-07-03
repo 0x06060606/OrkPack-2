@@ -23,7 +23,7 @@ We've got bunch of modules you can use. Some are faster (requests, mechanize) an
 ==> Linux `sudo apt-add-repository ppa:mozillateam/firefox-next && sudo apt-get update && sudo apt-get install firefox xvfb`<br/>
 ==> Windows `https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip`<br/>
 
-# running
+# Running
 ```
 $  python3 Main.py
 ```
